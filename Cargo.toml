@@ -1,0 +1,12 @@
+[package]
+name = "ansi-regex"
+description = "Regular Expression for matching ANSI escape codes."
+version = "0.1.0"
+authors = ["Sean Larkin <TheLarkInn@users.noreply.github.com>"]
+repository = "https://github.com/TheLarkInn/ansi-regex"
+license = "MIT"
+categories = ["command-line-utilities", "regular expressions", "regexp"]
+
+[dependencies]
+regex = "1.7.1"
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
